@@ -15,3 +15,18 @@ The main project aims to provide a suscription based software that allows freela
 We plan to explore integrating additional tools, such as liquidity pools, to further enhance the benefits offered by our platform. We chose Core Blockchain because of its interoperability, security, speed and low tx fees that will allow us to connect seamlessly with other DeFi and social solutions built on their ecosystem, maximizing the value we provide to our users.
 
 ---
+
+**Deployed Contract Address:**
+
+
+**Testnet:**
+
+StakingDapp = '0x7F15ab8c28DDaBC1b8840d3d3658C7549ed2f99B'
+stakingToken = '0xb99C4b42259617b531e2f9f9defd4Ebe91C515d7'
+RewardToken = '0x26E3F3259EF1e94b96E5EFCA875EDf90c63A1DA3'
+
+**Mainnet:**
+
+Staking Token: 0x5c58A1000fC17F21f7EF7bBAd9a163B3D7B745a7
+Reward Token: 0x024B319CB08c523c642d8847ee7e201a0dc719f4
+Staking Dapp: 0x560381A46AF4c5eB6cF6977233A794bfBB8DD416

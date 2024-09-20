@@ -13,6 +13,11 @@ module.exports = {
       url: 'https://rpc.test.btcs.network',
       accounts: [`0x${PrivateKey}`], // Asegúrate de que la clave esté en formato hexadecimal
       chainId: 1115,
+    },
+    core_mainnet: {
+      url: 'https://rpc.ankr.com/core',
+      accounts: [`0x${PrivateKey}`], // Asegúrate de que la clave esté en formato hexadecimal
+      chainId: 1116,
     }
   },
   solidity: {
