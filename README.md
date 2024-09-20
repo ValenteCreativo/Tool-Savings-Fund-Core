@@ -6,9 +6,11 @@ The application was built using Hardhat for blockchain integration and React-Nex
 
 This project showcases the low transaction fees and speed of the Core network, making it an ideal foundation for Matriz's savings benefits. Core's architecture allows for high scalability, enabling our application to handle a large volume of transactions efficiently.
 
+[Demo video available in this link!](https://youtu.be/5V5x-sK0sjs)
+
 ---
 
-This project was developed as part of the **Frutal Web House Hackathon @ EthereumMexico 2024**, as a tool for our main project [Matriz](https://github.com/Matriz-Coop)for the Core DAO track.
+This project was developed as part of the **Frutal Web House Hackathon @ EthereumMexico 2024**, as a tool for our main project [Matriz](https://github.com/Matriz-Coop) for the Core DAO track.
 
 The main project aims to provide a suscription based software that allows freelancers, entrepreneurs and startup employees, access to laboral benefits such as insurance, food allowance vouchers, saving funds, among others. 
 
