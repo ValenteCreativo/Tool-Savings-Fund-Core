@@ -1,4 +1,4 @@
-# Savings Fund Tool Developed on Core Testnet
+# Savings Fund Tool Developed on Core Blockchain (Testnet / Mainnet)
 
 This tool is part of Matriz, our main project. We developed three smart contracts for our saving fund software: One to manage the decentralized application login, another to define a token for savings (staking), and a third to reward users for letting their assets generate returns.
 
