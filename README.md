@@ -1,15 +1,17 @@
-# Herramienta de Fondo de Ahorro desarrollada en Core Testnet
+# Savings Fund Tool Developed on Core Testnet
 
-Se desarrollaron 3 contratos inteligentes,uno para el manejo de la aplicación descentralizada, otro para definir un token que sirva para hacer ahorro (Staking) y un tercero para dar recompensas a los usuarios por dejar su dinero trabajando. 
+This tool is part of Matriz, our main project. We developed three smart contracts for our saving fund software: One to manage the decentralized application login, another to define a token for savings (staking), and a third to reward users for letting their assets generate returns.
 
-La aplicación fue creada con Hardhat para el manejo Blockchain, y React para el desarrollo Front End. 
+The application was built using Hardhat for blockchain integration and React-NextJS for front-end development.
 
-Este proyecto demuestra las bajas comisiones de transacciones de Core y su velocidad, para que sea la base de los beneficios de ahorro de Matriz.
+This project showcases the low transaction fees and speed of the Core network, making it an ideal foundation for Matriz's savings benefits. Core's architecture allows for high scalability, enabling our application to handle a large volume of transactions efficiently.
 
------------------
+---
 
-Este proyecto fue desarrollado en el marco del Frutal Web House Hackathon @ EthereumMexico 2024 para el track de Core DAO. 
+This project was developed as part of the **Frutal Web House Hackathon @ EthereumMexico 2024**, as a tool for our main project [Matriz](https://github.com/Matriz-Coop)for the Core DAO track.
 
-Se planea seguir explorando la posibilidad de incorporar herramientas ya desarrolladas con albercas de liquidez para ofrecer mejores beneficios en nuestra app central. 
+The main project aims to provide a suscription based software that allows freelancers, entrepreneurs and startup employees, access to laboral benefits such as insurance, food allowance vouchers, saving funds, among others. 
 
-----------
+We plan to explore integrating additional tools, such as liquidity pools, to further enhance the benefits offered by our platform. We chose Core Blockchain because of its interoperability, security, speed and low tx fees that will allow us to connect seamlessly with other DeFi and social solutions built on their ecosystem, maximizing the value we provide to our users.
+
+---
